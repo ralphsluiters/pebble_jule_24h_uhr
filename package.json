@@ -1,0 +1,25 @@
+{
+    "author": "ralph@sluiters.de",
+    "dependencies": {},
+    "keywords": [],
+    "name": "24h-uhr-jule",
+    "pebble": {
+        "displayName": "24h Uhr Jule",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt"
+        ],
+        "uuid": "2e44a79f-f965-4a28-bebc-f843de7d93ce",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
